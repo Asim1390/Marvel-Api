@@ -7,8 +7,8 @@ let favoritesList = document.getElementById("favorites-list");
 let date = new Date();
 console.log(date.getTime());
 let timestamp = "1681802982683";
-let apiKey = //your apt key
-let hashValue = // your hash value 
+let apiKey = "338845203dbb25cba5deb1c863c639c2";
+let hashValue ="97ed055edf3286d9cf48601cc8adf6fd";
 
 let favoriteSuperheroes = [];
 
